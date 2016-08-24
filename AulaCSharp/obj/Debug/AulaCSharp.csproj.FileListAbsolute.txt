@@ -1,0 +1,6 @@
+E:\_ANYBAL\_SchoolOfNet\C#_Fundamentos\AulaCSharp\AulaCSharp\bin\Debug\AulaCSharp.exe.config
+E:\_ANYBAL\_SchoolOfNet\C#_Fundamentos\AulaCSharp\AulaCSharp\bin\Debug\AulaCSharp.exe
+E:\_ANYBAL\_SchoolOfNet\C#_Fundamentos\AulaCSharp\AulaCSharp\bin\Debug\AulaCSharp.pdb
+E:\_ANYBAL\_SchoolOfNet\C#_Fundamentos\AulaCSharp\AulaCSharp\obj\Debug\AulaCSharp.csprojResolveAssemblyReference.cache
+E:\_ANYBAL\_SchoolOfNet\C#_Fundamentos\AulaCSharp\AulaCSharp\obj\Debug\AulaCSharp.exe
+E:\_ANYBAL\_SchoolOfNet\C#_Fundamentos\AulaCSharp\AulaCSharp\obj\Debug\AulaCSharp.pdb
